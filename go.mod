@@ -1,4 +1,4 @@
-module github.com/google/keep-sorted
+module github.com/nika-pr/keep-sorted
 
 // Remember to also update language_version in .pre-commit-config.yaml,
 // .pre-commit-hooks.yaml, and README.md!

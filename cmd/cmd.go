@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/google/keep-sorted/keepsorted"
+	"github.com/nika-pr/keep-sorted/keepsorted"
 	"github.com/rs/zerolog/log"
 	flag "github.com/spf13/pflag"
 )

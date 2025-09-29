@@ -22,7 +22,7 @@ import (
 	"runtime/debug"
 	"time"
 
-	"github.com/google/keep-sorted/cmd"
+	"github.com/nika-pr/keep-sorted/cmd"
 	"github.com/mattn/go-isatty"
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
